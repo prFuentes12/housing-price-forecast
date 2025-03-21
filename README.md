@@ -61,11 +61,6 @@ The goal of this project is to develop and compare different models for predicti
 - Explore additional features such as neighborhood data, economic indicators, and other real estate metrics.
 - Implement other advanced models like Gradient Boosting or Neural Networks.
 
-## 📂 Repository Structure
-- `data/` - Contains the dataset.
-- `notebooks/` - Jupyter Notebooks with exploratory data analysis and model training.
-- `models/` - Trained models saved for future use.
-- `README.md` - This document explaining the project.
 
 ---
 🔹 **Author:** Fernando
