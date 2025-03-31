@@ -63,7 +63,6 @@ The goal of this project is to develop and compare different models for predicti
 
 
 ---
-🔹 **Author:** Fernando
-🔹 **License:** MIT  
+🔹 **Author:** Fernando  
 🔹 **Contact:** fdofuentescarrasco@gmail.com  
 
